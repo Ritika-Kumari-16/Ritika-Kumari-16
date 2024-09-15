@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ritika </h1>
 <h4 align="center">Mathematics and Computer Science Engineering Student at NIT Hamirpur</h4>
 <p>Welcome to my GitHub Profile! I'm passionate and actively advancing my understanding of data structures and algorithms to enhance my problem-solving skills. Here you'll find a collection of my projects, contributions, and explorations.</p>
